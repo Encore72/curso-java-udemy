@@ -1,6 +1,6 @@
 package org.aguzman.hilos.ejemplos.threads;
 
-public class NombreThread extends Thread {
+public class  NombreThread extends Thread {
     public NombreThread(String name) {
         super(name);
     }
