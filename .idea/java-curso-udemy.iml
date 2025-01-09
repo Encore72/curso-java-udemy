@@ -2,16 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/25 - lambda/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/27 - api_stream/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/28 - clase_optional/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/29 - java8_date_time/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/30 - anotaciones/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/31 - recursividad/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/32 - patrones_diseno/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/33 - manejo_de_archivos/manejo_de_archivo/src" isTestSource="false" />
-    </content>
+    <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

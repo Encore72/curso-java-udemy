@@ -21,11 +21,26 @@
       <module fileurl="file://$PROJECT_DIR$/17 - 2_poo_interfaces_repositorio[herencia_entre_interfaces]/17 - 2_poo_interfaces_repositorio[herencia_entre_interfaces].iml" filepath="$PROJECT_DIR$/17 - 2_poo_interfaces_repositorio[herencia_entre_interfaces]/17 - 2_poo_interfaces_repositorio[herencia_entre_interfaces].iml" />
       <module fileurl="file://$PROJECT_DIR$/18 - 1_poo_generics_metodos_genericos/18 - 1_poo_generics_metodos_genericos.iml" filepath="$PROJECT_DIR$/18 - 1_poo_generics_metodos_genericos/18 - 1_poo_generics_metodos_genericos.iml" />
       <module fileurl="file://$PROJECT_DIR$/19 - 2_poo_generics_clases_genericas/19 - 2_poo_generics_clases_genericas.iml" filepath="$PROJECT_DIR$/19 - 2_poo_generics_clases_genericas/19 - 2_poo_generics_clases_genericas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34 - BBDD_con_JDBC/1_java_jdbc_singleton/1_java_jdbc_singleton.iml" filepath="$PROJECT_DIR$/34 - BBDD_con_JDBC/1_java_jdbc_singleton/1_java_jdbc_singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36 - BBDD_con_JDBC_transacciones/1_java_jdbc_singleton_trx/1_java_jdbc_singleton_trx.iml" filepath="$PROJECT_DIR$/36 - BBDD_con_JDBC_transacciones/1_java_jdbc_singleton_trx/1_java_jdbc_singleton_trx.iml" />
       <module fileurl="file://$PROJECT_DIR$/20 - 3_poo_interface_repo[usando_genericos]/20 - 3_poo_interface_repo[usando_genericos].iml" filepath="$PROJECT_DIR$/20 - 3_poo_interface_repo[usando_genericos]/20 - 3_poo_interface_repo[usando_genericos].iml" />
       <module fileurl="file://$PROJECT_DIR$/21 - 4_poo_interface_repo[con_manejo_de_excepcion]/21 - 4_poo_interface_repo[con_manejo_de_excepcion].iml" filepath="$PROJECT_DIR$/21 - 4_poo_interface_repo[con_manejo_de_excepcion]/21 - 4_poo_interface_repo[con_manejo_de_excepcion].iml" />
       <module fileurl="file://$PROJECT_DIR$/22 - 1_api_colecciones_list_set_map/22 - 1_api_colecciones_list_set_map.iml" filepath="$PROJECT_DIR$/22 - 1_api_colecciones_list_set_map/22 - 1_api_colecciones_list_set_map.iml" />
       <module fileurl="file://$PROJECT_DIR$/23 - 1_hilos/23 - 1_hilos.iml" filepath="$PROJECT_DIR$/23 - 1_hilos/23 - 1_hilos.iml" />
       <module fileurl="file://$PROJECT_DIR$/24 - 2_hilos_executors/24 - 2_hilos_executors.iml" filepath="$PROJECT_DIR$/24 - 2_hilos_executors/24 - 2_hilos_executors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25 - lambda/25 - lambda.iml" filepath="$PROJECT_DIR$/25 - lambda/25 - lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27 - api_stream/27 - api_stream.iml" filepath="$PROJECT_DIR$/27 - api_stream/27 - api_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28 - clase_optional/28 - clase_optional.iml" filepath="$PROJECT_DIR$/28 - clase_optional/28 - clase_optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29 - java8_date_time/29 - java8_date_time.iml" filepath="$PROJECT_DIR$/29 - java8_date_time/29 - java8_date_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36 - BBDD_con_JDBC_transacciones/2_java_jdbc_pool_trx/2_java_jdbc_pool_trx.iml" filepath="$PROJECT_DIR$/36 - BBDD_con_JDBC_transacciones/2_java_jdbc_pool_trx/2_java_jdbc_pool_trx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34 - BBDD_con_JDBC/2_java_jdbc_relaciones/2_java_jdbc_relaciones.iml" filepath="$PROJECT_DIR$/34 - BBDD_con_JDBC/2_java_jdbc_relaciones/2_java_jdbc_relaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30 - anotaciones/30 - anotaciones.iml" filepath="$PROJECT_DIR$/30 - anotaciones/30 - anotaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31 - recursividad/31 - recursividad.iml" filepath="$PROJECT_DIR$/31 - recursividad/31 - recursividad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32 - patrones_diseno/32 - patrones_diseno.iml" filepath="$PROJECT_DIR$/32 - patrones_diseno/32 - patrones_diseno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33 - manejo_de_archivos/33 - manejo_de_archivos.iml" filepath="$PROJECT_DIR$/33 - manejo_de_archivos/33 - manejo_de_archivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35 - BBDD_con_JDBC_poolconexiones/35 - BBDD_con_JDBC_poolconexiones.iml" filepath="$PROJECT_DIR$/35 - BBDD_con_JDBC_poolconexiones/35 - BBDD_con_JDBC_poolconexiones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34 - BBDD_con_JDBC/3_java_jdbc_close/3_java_jdbc_close.iml" filepath="$PROJECT_DIR$/34 - BBDD_con_JDBC/3_java_jdbc_close/3_java_jdbc_close.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36 - BBDD_con_JDBC_transacciones/3_java_jdbc_pool_trx_service/3_java_jdbc_pool_trx_service.iml" filepath="$PROJECT_DIR$/36 - BBDD_con_JDBC_transacciones/3_java_jdbc_pool_trx_service/3_java_jdbc_pool_trx_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-curso-udemy.iml" filepath="$PROJECT_DIR$/.idea/java-curso-udemy.iml" />
     </modules>
   </component>
